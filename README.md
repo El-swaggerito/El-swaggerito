@@ -43,15 +43,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=El-swaggerito&show_icons=true&theme=radical" alt="Zayyad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-swaggerito&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 🧰 Certifications
 
 - 🏆 [Responsive Web Design](https://www.freecodecamp.org/certification/El-swaggerito/responsive-web-design)
