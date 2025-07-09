@@ -1,9 +1,10 @@
-<h1 align="center">Hey there 👋, I'm Muhammad Zayyad Mukhtar</h1>
-<h3 align="center">🚀 Fullstack Developer | 👨‍💻 Frontend Specialist | 🌍 Web3 Enthusiast</h3>
+<div align="center" style="padding: 20px; background-color: #f0f4f8; border-radius: 12px; border: 1px solid #d1d5db; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Crafting+clean+code+%F0%9F%92%AA;Building+smart+apps+%F0%9F%94%A5;Frontend+Fanboy+%F0%9F%92%BB;Learning+Web3+step-by-step+%F0%9F%93%9D" alt="Typing SVG" />
-</p>
+  <h1 style="margin: 0; font-size: 2.5rem;">Hey there 👋, I'm Muhammad Zayyad Mukhtar</h1>
+  <h3 style="color: #3b82f6;">🚀 Fullstack Developer | 👨‍💻 Frontend Specialist | 🌍 Web3 Enthusiast</h3>
+
+</div>
+
 
 ---
 
@@ -29,35 +30,6 @@
 🐙 Git & GitHub | 🧪 Jest | 🔍 Chrome DevTools | 🔧 VS Code | 🌈 Figma | 💡 Linux  
 **Cloud & Deployment:**  
 🔄 Vercel | ☁️ Render | 🔥 Firebase | 🚀 GitHub Actions
-
----
-
-## 🚀 Highlight Projects
-
-### 🛡️ [Campus Security System](https://github.com/El-swaggerito/Campus-Security-System)  
-> 🧠 Machine Learning + React + Flask  
-📊 Reduced campus thefts by 67% with predictive analytics and visual dashboards  
-🎯 Real-time insights, risk scoring, and dynamic visualizations
-
-### 🤖 [AI-Powered Learning Platform](https://github.com/El-swaggerito/Ai-powered-personalized-learning-platform)  
-> ✨ Gemini AI + Next.js 14 + Framer Motion  
-🎓 Personalized learning recommendations based on user profiles  
-💡 Gradient UI, animations, and seamless user flow
-
-### 🏠 [Real Estate Pro](https://github.com/El-swaggerito/Real-Estate)  
-> 🗺️ Google Maps API + Next.js  
-🏘️ Feature-rich platform with listings, filters, and mortgage calculator  
-🎬 Smooth micro-interactions with GSAP & Framer Motion
-
-### 💬 [MERN Chat App](https://github.com/El-swaggerito/chat-app)  
-> 🔒 JWT Auth + Socket.io + MongoDB  
-💬 Real-time messaging with secure login and dynamic UI  
-🧪 Fully tested with Jest on frontend and backend
-
-### 📱 [iPhone 15 3D Clone](https://github.com/El-swaggerito/iphone15-clone.git)  
-> 🎥 Three.js + GSAP + React  
-📱 Stunning product display with smooth scroll animations  
-🧠 Learned WebGL under the hood for 3D rendering
 
 ---
 
