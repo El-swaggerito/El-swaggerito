@@ -5,7 +5,6 @@
 
 </div>
 
-
 ---
 
 ## 🧠 About Me
@@ -40,23 +39,6 @@
 💼 Experimenting with NFT minting, tokenomics, and decentralized storage  
 📦 Working on my first **React + Web3.js** dApp with MetaMask integration!  
 ✨ Dreaming of launching a real-world dApp soon – stay tuned 👀
-
----
-
-## 🧰 Certifications
-
-- 🏆 [Responsive Web Design](https://www.freecodecamp.org/certification/El-swaggerito/responsive-web-design)
-- 🏆 [JavaScript Algorithms & Data Structures](https://www.freecodecamp.org/certification/El-swaggerito/javascript-algorithms-and-data-structures)
-- 🏆 [Front End Development Libraries](https://www.freecodecamp.org/certification/El-swaggerito/front-end-development-libraries)
-
----
-
-## 🤝 Let's Connect
-
-- 🌐 Portfolio: [zayyad-portfolio.vercel.app](https://zayyad-portfolio.vercel.app)  
-- 🧑‍💼 LinkedIn: [Muhammad Zayyad Mukhtar](https://www.linkedin.com/in/muhammad-zayyad-mukhtar-203a73227)  
-- 💬 Twitter: [@El_swaggerito](https://twitter.com/)  
-- 📬 Email: zayyadmukhtar@gmail.com
 
 ---
 
