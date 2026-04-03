@@ -10,7 +10,6 @@
 ## 🧠 About Me
 
 🎓 Computer Science graduate from Kwara State University  
-📍 Based in Kwara, Nigeria  
 🛠 I love turning ideas into full-blown digital products — clean, fast, responsive, and fun!  
 🕸 Currently diving into the world of **Web3** — smart contracts, dApps, and decentralized magic.  
 🧪 Always tinkering with new tech stacks, especially **Next.js, TypeScript, Tailwind, and React**.
