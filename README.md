@@ -1,7 +1,7 @@
 <div align="center" style="padding: 20px; background-color: #f0f4f8; border-radius: 12px; border: 1px solid #d1d5db; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
 
   <h1 style="margin: 0; font-size: 2.5rem;">Hey there 👋, I'm Muhammad Zayyad Mukhtar</h1>
-  <h3 style="color: #3b82f6;">🚀 Fullstack Developer | 👨‍💻 Frontend Specialist | 🌍 Web3 Enthusiast</h3>
+  <h3 style="color: #3b82f6;">🚀 Software Engineer | 👨‍💻 Frontend Specialist | 🌍 Web3 Enthusiast</h3>
 
 </div>
 
