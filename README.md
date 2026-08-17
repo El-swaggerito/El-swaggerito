@@ -4,6 +4,9 @@
 
 <br/>
 
+<a href="https://github.com/El-swaggerito">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/muhammad-zayyad-mukhtar-753150399">
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -13,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2563EB&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=El-swaggerito&label=Profile%20Views&color=2563EB&style=flat-square" />
 
 </div>
 
@@ -102,7 +105,7 @@ AI
 
 ### AI, Web3 & Systems
 
-<img src="https://skillicons.dev/icons?i=python,rust,docker,linux,aws" />
+<img src="https://skillicons.dev/icons?i=rust,docker,linux,aws" />
 
 <br/>
 
@@ -190,7 +193,9 @@ Building intelligent systems capable of **reasoning, planning, executing tasks, 
 **Agentic AI**
 
 </td>
+
 <td align="center">→</td>
+
 <td align="center" width="20%">
 
 ### 🧠
@@ -198,7 +203,9 @@ Building intelligent systems capable of **reasoning, planning, executing tasks, 
 **Intelligent Systems**
 
 </td>
+
 <td align="center">→</td>
+
 <td align="center" width="20%">
 
 ### ⚙️
@@ -206,7 +213,9 @@ Building intelligent systems capable of **reasoning, planning, executing tasks, 
 **Automation**
 
 </td>
+
 <td align="center">→</td>
+
 <td align="center" width="20%">
 
 ### 🌐
@@ -227,13 +236,13 @@ I'm particularly interested in building systems at the intersection of **softwar
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=El-swaggerito&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-swaggerito&layout=compact&hide_border=true&theme=transparent" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=El-swaggerito&hide_border=true&theme=transparent" />
 
 </div>
 
@@ -243,7 +252,7 @@ I'm particularly interested in building systems at the intersection of **softwar
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff00&color=2563EB&line=2563EB&point=111827&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=El-swaggerito&bg_color=ffffff00&color=2563EB&line=2563EB&point=111827&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -257,9 +266,9 @@ I'm open to collaborating on
 
 **AI · Open Source · Web3 · Developer Tools · Startups**
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/El-swaggerito">
 <img src="https://img.shields.io/badge/Let's%20Build%20Together-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
