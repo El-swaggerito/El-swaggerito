@@ -230,21 +230,7 @@ Building intelligent systems capable of **reasoning, planning, executing tasks, 
 
 I'm particularly interested in building systems at the intersection of **software engineering, AI, decentralized infrastructure, and real-world applications.**
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=El-swaggerito&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-swaggerito&layout=compact&hide_border=true&theme=transparent" height="180"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=El-swaggerito&hide_border=true&theme=transparent" />
-
-</div>
 
 ---
 
